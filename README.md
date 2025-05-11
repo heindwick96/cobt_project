@@ -1,5 +1,5 @@
 
-![Logo](images/banner cobt.png)
+![Logo](images/bannercobt.png)
 
 
 # COBT Power BI Project
