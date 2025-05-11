@@ -136,6 +136,6 @@ In this diagram, slider is use to simulate the income for each tourism spot
 
 In this diagram, we can see the future plan for each tourism-spot
 
-### Conclusion
+# Conclusion
 
 In this project, we created a simple visualization to showcase what Power BI can do. For the **data preprocessing**, we use both Power BI (Power Query) and Python
