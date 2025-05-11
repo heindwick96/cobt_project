@@ -107,7 +107,7 @@ dataset['improved'] = dataset['without stopwords'].apply(replace_with_synonyms)
 
 # Data Visualization
 ### The dashboard
-![dashboard](images/dashboard.png)
+![dashboard](images/Dashboard.png)
 
 The dashboard is to summarize each tourism-spot data. 
 There are few button ```Accomodation```, ```Guided Tours```, ```Handicraft``` and ```Cultural Experience``` for navigation. This is the sample page for each button.
