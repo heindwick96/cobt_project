@@ -33,7 +33,7 @@ Three python script are used in this phase: ```remove_stopwatch.py```, ```remove
 
 ## Data Preprocessing
 ### 1. remove_stopwatch.py
-We processes a text column in a dataset, removing common stopwords (like "the", "is", "in") plus some additional ones (especially in Malay/Indonesian), and stores the cleaned version in a new column.
+We processes a text column in a dataset, removing common stopwords (like "the", "is", "in") plus some additional ones (especially in Malay), and stores the cleaned version in a new column.
 ```
 import pandas as pd
 import nltk
