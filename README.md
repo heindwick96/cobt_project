@@ -1,6 +1,6 @@
 
 ![Logo](images/bannercobt.png)
-
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) [![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff)](#) [![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#)
 
 # COBT Power BI Project
 
