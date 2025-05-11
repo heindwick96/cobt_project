@@ -108,11 +108,13 @@ dataset['improved'] = dataset['without stopwords'].apply(replace_with_synonyms)
 # Data Visualization
 ### The dashboard
 ![dashboard](images/dashboard.png)
+
 The dashboard is to summarize each tourism-spot data. 
 There are few button ```Accomodation```, ```Guided Tours```, ```Handicraft``` and ```Cultural Experience``` for navigation. This is the sample page for each button.
 
 ### Navigation page
 ![accomodation](images/accomodation.png)
+
 Each navigation page include
 - Customer satisfaction
 - Marketing wordcloud
@@ -121,12 +123,15 @@ Each navigation page include
 
 ### Community Engagement page
 ![challenges](images/challenges.png)
+
 In this diagram, we can see the percentage of community engagement within each tourism spot
 
 ### Profit page
 ![profit](images/profit.png)
+
 In this diagram, slider is use to simulate the income for each tourism spot
 
 ### Plan page
 ![plan](images/plan.png)
+
 In this diagram, we can see the future plan for each tourism-spot
